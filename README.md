@@ -10,3 +10,7 @@ of furniture frenzy for J2ME but the code is entirely new as the original
 java code was lost.
 
 The source code is used in a tutorial for building simple games. see http://madebyryan.blogspot.com/
+
+Windows Binary: http://db.tt/AgB6vTqW
+MacOSX Binary (requires SDL http://www.libsdl.org) : http://db.tt/W6IUF8Xw
+Linux - compile for yourself
